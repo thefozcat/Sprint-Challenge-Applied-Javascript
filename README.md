@@ -32,7 +32,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
-    It is an object representation of html elements on a web page.
+    The Document Object Model.  It is an object representation of html elements on a web page.
 
 2. What is an event?
 
